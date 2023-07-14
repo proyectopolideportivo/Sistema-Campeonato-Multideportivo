@@ -1,27 +1,27 @@
-Sistema de Campeonato Multideportivo
-Descripción
+# Sistema de Campeonato Multideportivo
+## Descripción
 El Sistema de Campeonato Multideportivo es un conjunto de aplicaciones diseñadas para gestionar y organizar competiciones deportivas de diferentes disciplinas. El objetivo principal es proporcionar una herramienta que facilite la administración de campeonatos y permita a los usuarios consultar las estadísticas de sus deportes y equipos favoritos.
 
-El sistema consta de dos aplicaciones principales:
+## El sistema consta de dos aplicaciones principales:
 
 Aplicación Administrativa: Esta aplicación se encarga de la gestión y administración de los campeonatos. Permite a los usuarios con los permisos adecuados acceder a la plataforma, ingresar nuevos equipos, jugadores, llevar un control de los campeonatos, actualizar los resultados de las jornadas, generar tablas de posiciones, entre otras funcionalidades. Además, cuenta con la capacidad de generar reportes para los gerentes, que incluyen información relevante definida previamente.
 
-Características principales de la Aplicación Administrativa:
+## Características principales de la Aplicación Administrativa:
 
-Inicio de sesión para gerentes y administradores.
-Registro, edición y eliminación de campeonatos.
-Registro, edición y eliminación de equipos.
-Registro, edición y eliminación de entrenadores y jugadores (incluyendo fotografías).
-Registro, edición y eliminación de empleados (administrador, secretaria, mantenimiento, árbitros, etc.).
-Registro de movimientos y acciones realizadas dentro de la aplicación (bitácora).
-Aplicación de Equipos: Esta aplicación proporciona información relevante para los equipos participantes. Permite a cada equipo consultar sus próximos partidos, la tabla de posiciones y las estadísticas de sus juegos.
+- Inicio de sesión para gerentes y administradores.
+* Registro, edición y eliminación de campeonatos.
++ Registro, edición y eliminación de equipos.
+- Registro, edición y eliminación de entrenadores y jugadores (incluyendo fotografías).
+* Registro, edición y eliminación de empleados (administrador, secretaria, mantenimiento, árbitros, etc.).
++ Registro de movimientos y acciones realizadas dentro de la aplicación (bitácora).
+- Aplicación de Equipos: Esta aplicación proporciona información relevante para los equipos participantes. Permite a cada equipo consultar sus próximos partidos, la tabla de posiciones y las estadísticas de sus juegos.
 
-Características principales de la Aplicación de Equipos:
+## Características principales de la Aplicación de Equipos:
 
-Consulta de los próximos partidos del equipo.
-Visualización de la tabla de posiciones.
-Verificación de las estadísticas de los partidos disputados.
-El sistema ofrece la posibilidad de crear campeonatos de diferentes deportes, como fútbol, baloncesto, béisbol, voleibol, entre otros. El programa es capaz de generar todas las combinaciones de partidos posibles una vez que todos los equipos estén registrados. Además, permite la selección de los equipos que disputarán los partidos, el árbitro asignado y la entrada de estadísticas específicas para cada jornada.
+- Consulta de los próximos partidos del equipo.
+* Visualización de la tabla de posiciones.
++ Verificación de las estadísticas de los partidos disputados.
+- El sistema ofrece la posibilidad de crear campeonatos de diferentes deportes, como fútbol, baloncesto, béisbol, voleibol, entre otros. El programa es capaz de generar todas las combinaciones de partidos posibles una vez que todos los equipos estén registrados. Además, permite la selección de los equipos que disputarán los partidos, el árbitro asignado y la entrada de estadísticas específicas para cada jornada.
 
 La interfaz del sistema ha sido diseñada para ser amigable con el cliente, proporcionando funcionalidades útiles y fáciles de usar. Por ejemplo, al registrar una victoria, el programa automáticamente determina si el equipo clasifica a la siguiente fase.
 
