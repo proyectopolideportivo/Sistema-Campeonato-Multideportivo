@@ -1,12 +1,12 @@
-#Sistema de Campeonato Multideportivo
-##Descripción
+Sistema de Campeonato Multideportivo
+Descripción
 El Sistema de Campeonato Multideportivo es un conjunto de aplicaciones diseñadas para gestionar y organizar competiciones deportivas de diferentes disciplinas. El objetivo principal es proporcionar una herramienta que facilite la administración de campeonatos y permita a los usuarios consultar las estadísticas de sus deportes y equipos favoritos.
 
-##El sistema consta de dos aplicaciones principales:
+El sistema consta de dos aplicaciones principales:
 
 Aplicación Administrativa: Esta aplicación se encarga de la gestión y administración de los campeonatos. Permite a los usuarios con los permisos adecuados acceder a la plataforma, ingresar nuevos equipos, jugadores, llevar un control de los campeonatos, actualizar los resultados de las jornadas, generar tablas de posiciones, entre otras funcionalidades. Además, cuenta con la capacidad de generar reportes para los gerentes, que incluyen información relevante definida previamente.
 
-##Características principales de la Aplicación Administrativa:
+Características principales de la Aplicación Administrativa:
 
 Inicio de sesión para gerentes y administradores.
 Registro, edición y eliminación de campeonatos.
@@ -16,7 +16,7 @@ Registro, edición y eliminación de empleados (administrador, secretaria, mante
 Registro de movimientos y acciones realizadas dentro de la aplicación (bitácora).
 Aplicación de Equipos: Esta aplicación proporciona información relevante para los equipos participantes. Permite a cada equipo consultar sus próximos partidos, la tabla de posiciones y las estadísticas de sus juegos.
 
-##Características principales de la Aplicación de Equipos:
+Características principales de la Aplicación de Equipos:
 
 Consulta de los próximos partidos del equipo.
 Visualización de la tabla de posiciones.
