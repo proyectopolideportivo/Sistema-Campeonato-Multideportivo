@@ -21,7 +21,8 @@ Aplicación Administrativa: Esta aplicación se encarga de la gestión y adminis
 - Consulta de los próximos partidos del equipo.
 * Visualización de la tabla de posiciones.
 + Verificación de las estadísticas de los partidos disputados.
-- El sistema ofrece la posibilidad de crear campeonatos de diferentes deportes, como fútbol, baloncesto, béisbol, voleibol, entre otros. El programa es capaz de generar todas las combinaciones de partidos posibles una vez que todos los equipos estén registrados. Además, permite la selección de los equipos que disputarán los partidos, el árbitro asignado y la entrada de estadísticas específicas para cada jornada.
+
+El sistema ofrece la posibilidad de crear campeonatos de diferentes deportes, como fútbol, baloncesto, béisbol, voleibol, entre otros. El programa es capaz de generar todas las combinaciones de partidos posibles una vez que todos los equipos estén registrados. Además, permite la selección de los equipos que disputarán los partidos, el árbitro asignado y la entrada de estadísticas específicas para cada jornada.
 
 La interfaz del sistema ha sido diseñada para ser amigable con el cliente, proporcionando funcionalidades útiles y fáciles de usar. Por ejemplo, al registrar una victoria, el programa automáticamente determina si el equipo clasifica a la siguiente fase.
 
